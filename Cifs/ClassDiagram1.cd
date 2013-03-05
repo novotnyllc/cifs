@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<Diagram xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" MajorVersion="1" MinorVersion="1" xmlns="http://www.microsoft.com/VisualStudio/EnterpriseTools/ClassDesigner/V1.1/DiagramSchema.xsd">
+  <View FilterFieldProperty="false" LastOpened="true" Name="Main">
+    <AbsoluteBounds X="0" Y="0" Height="12.629303373197715" Width="11" />
+    <Font>default</Font>
+    <Class Collapsed="false">
+      <AbsoluteBounds X="4.75" Y="3.25" Height="9.1293033731977147" Width="1.5" />
+      <TypeIdentifier>
+        <FullName>Cifs.SMBMessage</FullName>
+        <FileName>C:\Documents and Settings\osn\My Documents\Visual Studio Projects\Cifs\Cifs\SMBMessage.cs</FileName>
+        <SiblingOrder>6</SiblingOrder>
+        <HashCode>c1EwCqldiM4OVAmTHtWNRSAwF9Kw4iYk4PNrPjwlsVo=</HashCode>
+      </TypeIdentifier>
+      <Compartment Group="Kind" HasGroup="true" HeaderText="Fields" Collapsed="true" />
+      <LollipopPosition Position="0.20000000000000018" />
+    </Class>
+    <Struct Collapsed="false">
+      <AbsoluteBounds X="1.25" Y="5.25" Height="1.0847981723149616" Width="1.5" />
+      <TypeIdentifier>
+        <FullName>Cifs.NBInfo</FullName>
+        <FileName>C:\Documents and Settings\osn\My Documents\Visual Studio Projects\Cifs\Cifs\Share.cs</FileName>
+        <SiblingOrder>7</SiblingOrder>
+        <HashCode>AAAAAAAAAAAAAAAAAAAAAAQABAAAAAAAAAAAAAAAAAA=</HashCode>
+      </TypeIdentifier>
+    </Struct>
+    <Interface Collapsed="false">
+      <AbsoluteBounds X="2.75" Y="2.75" Height="0.9181315056482946" Width="1.5" />
+      <TypeIdentifier>
+        <FullName>Cifs.NBTInput</FullName>
+        <FileName>C:\Documents and Settings\osn\My Documents\Visual Studio Projects\Cifs\Cifs\NBTInterfaces.cs</FileName>
+        <SiblingOrder>4</SiblingOrder>
+        <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      </TypeIdentifier>
+    </Interface>
+    <Interface Collapsed="false">
+      <AbsoluteBounds X="0.5" Y="3" Height="1.0847981723149616" Width="1.5" />
+      <TypeIdentifier>
+        <FullName>Cifs.NBTOutput</FullName>
+        <FileName>C:\Documents and Settings\osn\My Documents\Visual Studio Projects\Cifs\Cifs\NBTInterfaces.cs</FileName>
+        <SiblingOrder>5</SiblingOrder>
+        <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      </TypeIdentifier>
+    </Interface>
+    <Interface Collapsed="false">
+      <AbsoluteBounds X="7" Y="1.5" Height="3.9181315056482946" Width="1.5" />
+      <TypeIdentifier>
+        <FullName>Cifs.CifsSession</FullName>
+        <FileName>C:\Documents and Settings\osn\My Documents\Visual Studio Projects\Cifs\Cifs\CifsSession.cs</FileName>
+        <SiblingOrder>4</SiblingOrder>
+        <HashCode>AAAAABQACDBIAAAAABAIYAAAAAQAAQABAAAAEAAEBEI=</HashCode>
+      </TypeIdentifier>
+    </Interface>
+  </View>
+</Diagram>

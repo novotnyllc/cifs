@@ -1,0 +1,50 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+[attr]utf16 diff merge -crlf
+
+*.cs text diff=csharp 
+*.csproj text merge=union 
+*.dbproj merge=union
+*.vbproj text merge=union 
+*.vcxproj text merge=union 
+*.resw text merge=union
+*.resx text merge=union
+*.vsixmanifest text
+*.vstemplate text
+*.sln text eol=crlf merge=union 
+*.vb text
+*.fsproj merge=union
+*.manifest text
+*.msbuild text
+
+
+*.ico binary
+*.snk binary
+*.xls binary
+
+*.bat text
+*.config text
+*.nuspec text
+*.ruleset text
+*.settings text
+*.shfb text
+*.targets text
+*.tdnet text
+*.txt text
+*.xml text
+*.xsl text
+*.xslt text
+
+
+# Standard to msysgit
+*.doc	 diff=astextplain
+*.DOC	 diff=astextplain
+*.docx diff=astextplain
+*.DOCX diff=astextplain
+*.dot  diff=astextplain
+*.DOT  diff=astextplain
+*.pdf  diff=astextplain
+*.PDF	 diff=astextplain
+*.rtf	 diff=astextplain
+*.RTF	 diff=astextplain
